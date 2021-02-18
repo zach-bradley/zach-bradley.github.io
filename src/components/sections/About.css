@@ -1,0 +1,22 @@
+.About {
+  height: 300px;
+  display: flex;
+  width: 100%;
+}
+
+.About-Header {
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.About-Desc {
+  width: 60%;
+  display: flex;
+  font-size: 20px;
+  justify-content: center;
+  align-items: center;
+  padding-left: 80px;
+  padding-right: 80px;
+}

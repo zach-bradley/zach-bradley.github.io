@@ -1,0 +1,14 @@
+.Projects-Card {
+  display: flex;
+  flex-direction: row !important;
+}
+
+.card {
+  width: 600px !important;
+}
+
+.container {
+  display: flex;
+  justify-content: center !important;
+  align-items: center !important;
+}
