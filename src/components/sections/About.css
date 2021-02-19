@@ -1,17 +1,27 @@
 .About {
-  height: 300px;
   display: flex;
+  flex-direction: column;
   width: 100%;
 }
 
-.About-Header {
+.About > hr {
+  border: 1px solid lightgray;
+  width: 80%;
+}
+
+.About-Section {
+  display: flex;
+  height: 300px;
+}
+
+.About-SectionTop {
   width: 40%;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.About-Desc {
+.About-SectionBottom {
   width: 60%;
   display: flex;
   font-size: 20px;
