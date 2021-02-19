@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1c6acb5e.chunk.css",
+    "main.js": "/static/js/main.c44b4923.chunk.js",
+    "main.js.map": "/static/js/main.c44b4923.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d0605945.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d0605945.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.3e807169.chunk.js": "/static/js/2.3e807169.chunk.js",
+    "static/js/2.3e807169.chunk.js.map": "/static/js/2.3e807169.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.1c6acb5e.chunk.css.map": "/static/css/main.1c6acb5e.chunk.css.map",
+    "static/js/2.3e807169.chunk.js.LICENSE.txt": "/static/js/2.3e807169.chunk.js.LICENSE.txt",
+    "static/media/Resume.98680b51.pdf": "/static/media/Resume.98680b51.pdf",
+    "static/media/flannel.e4fc3abf.jpg": "/static/media/flannel.e4fc3abf.jpg",
+    "static/media/happyhour.589c3508.jpg": "/static/media/happyhour.589c3508.jpg",
+    "static/media/healthyyou.4379f56f.JPG": "/static/media/healthyyou.4379f56f.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0605945.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.3e807169.chunk.js",
+    "static/css/main.1c6acb5e.chunk.css",
+    "static/js/main.c44b4923.chunk.js"
+  ]
+}
